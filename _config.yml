@@ -3,11 +3,11 @@
 # ----------------------- #
 
 url: http://Kevin-Wei.github.io
-title: They should've sent a poet.
+title: Kevin This Wei
 subtitle: Thoughts in Chaos
 author: Kevin Wei
 simple_search: http://google.com/search
-description:
+description: They should've sent a poet.
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -63,13 +63,13 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 # ----------------------- #
 
 # Github repositories
-github_user:
+github_user: Kevin-Wei
 github_repo_count: 0
 github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user: @KevinThisWei
+twitter_user: KevinThisWei
 twitter_tweet_button: true
 
 # Google +1
@@ -98,3 +98,6 @@ google_analytics_tracking_id:
 
 # Facebook Like
 facebook_like: false
+
+# Tapir
+tapir_token: 51a84e573f61b045200002e4
