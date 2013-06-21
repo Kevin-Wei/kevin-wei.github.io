@@ -4,7 +4,7 @@
   <title><![CDATA[Kevin This Wei]]></title>
   <link href="http://Kevin-Wei.github.io/atom.xml" rel="self"/>
   <link href="http://Kevin-Wei.github.io/"/>
-  <updated>2013-06-21T01:42:54-07:00</updated>
+  <updated>2013-06-21T01:54:51-07:00</updated>
   <id>http://Kevin-Wei.github.io/</id>
   <author>
     <name><![CDATA[Kevin Wei]]></name>
@@ -22,7 +22,7 @@
 
 <blockquote><p>How does someone without a computer science degree land a job in web development?</p></blockquote>
 
-<p>Well if you&rsquo;re a math savant, you can just go ahead and read <a href="http://www.amazon.com/books/dp/0262033844">this book</a> to start your path toward enlightenment. Also if you could answer this little <a href="https://en.wikipedia.org/wiki/P_versus_NP_problem">P = NP</a> problem while your at it, it would be <a href="http://en.wikipedia.org/wiki/Millennium_Prize_Problems">much appreciated</a>.</p>
+<p>Well if you&rsquo;re a math savant, you can just go ahead and read <a href="http://www.amazon.com/books/dp/0262033844">this book</a> to start your path toward enlightenment. Also if you could answer this little <a href="https://en.wikipedia.org/wiki/P_versus_NP_problem">P = NP</a> problem while you&rsquo;re at it, it would be <a href="http://en.wikipedia.org/wiki/Millennium_Prize_Problems">much appreciated</a>.</p>
 
 <p>As for the rest of us plebeians, we should be asking ourselves:</p>
 
@@ -37,21 +37,24 @@
 <p>Here is how we leverage both our knowledge and lack of knowledge to our advantage:</p>
 
 <ul>
-<li>This brings me to the first of the <em>two</em> important rules in life.</li>
+<li><p>This brings me to the first of the <em>two</em> important rules in life.</p>
+
+<ol>
 <li>Don&rsquo;t tell everyone everything you know.</li>
-</ul>
+</ol>
 
 
-<p> The reason for this is straight forward. If you tell someone during an interview that you have expertise in <strong>asymptotic analysis</strong> and understand <strong>data structures and algorithms</strong>, you&rsquo;re likely going get asked a question intended for someone who is well versed in the subject matter. Unless you plan on taking the time to master the material I would suggest being honest. Don&rsquo;t want to get caught pretending to know more than you do.</p>
+<p>The reason for this is straight forward. If you tell someone during an interview that you have expertise in <strong>asymptotic analysis</strong> and understand <strong>data structures and algorithms</strong>, you&rsquo;re likely going get asked a question intended for someone who is well versed in the subject matter. Unless you plan on taking the time to master the material I would suggest being honest. Don&rsquo;t want to get caught pretending to know more than you do.</p></li>
+<li><p>Despite this, a question may still be asked in regards to <strong>asymptotic analysis</strong>. Don&rsquo;t be afraid. They may be asking you anyway to assess how calm you stay under a stressful situation. The solution is simple. State clearly what you do and don&rsquo;t know and proceed to ask for help or describe how you would get help in such a situation where your knowledge is lacking. Show them your curious and willing to learn on the spot.</p></li>
+<li><p>Another key thing to understand what <strong>asymptotic analysis</strong> describes. If you can clearly describe what the advantages and disadvantages are, this might even prove that you&rsquo;re a <em>good communicator</em>.</p>
 
 <ul>
-<li><p>Despite this, a question may still be asked in regards to <strong>asymptotic analysis</strong>. Don&rsquo;t be afraid. They may be asking you anyway to assess how calm you stay under a stressful situation. The solution is simple. State clearly what you do and don&rsquo;t know and proceed to ask for help or describe how you would get help in such a situation where your knowledge is lacking. Show them your curious and willing to learn on the spot.</p></li>
-<li><p>Another key thing to understand what <strong>asymptotic analysis</strong> describes. If you can clearly describe what the advantages and disadvantages are, this might even prove that you&rsquo;re a <em>good communicator</em>.</p></li>
-<li>Understand the basic problem is one of Time Complexity (how long it takes to run) vs Space Complexity (How much storage it takes) and the possible trade offs between the two.</li>
-<li>Understand that the tool for measurement is called &ldquo;Big O&rdquo; and is referred to as &ldquo;Big O notation&rdquo; and O(N) is pronounced &ldquo;O of N&rdquo;</li>
-<li>Understand that Big O is simply referring to <em>the rate of growth for a resource based on the size of the input</em></li>
-<li>Understand that <em>Asymptotic analysis</em> is not the end all for describing algorithmic efficiency. It doesn&rsquo;t take into account the frequency in which that algorithm or data structure will be used or how much better more powerful hardware will run things.</li>
-<li>Most importantly someone smarter than you has likely already done the hard part. This stuff tends to be core to the structure of many systems and programming languages. The architects have likely taken this into heavy consideration so you don&rsquo;t have to.</li>
+<li><p>Understand the basic problem is one of Time Complexity (how long it takes to run) vs Space Complexity (How much storage it takes) and the possible trade offs between the two. Understand that the tool for measurement is called &ldquo;Big O&rdquo; and is referred to as &ldquo;Big O notation&rdquo; and O(N) is pronounced &ldquo;O of N&rdquo;</p></li>
+<li><p>Understand that Big O is simply referring to <em>the rate of growth for a resource based on the size of the input</em></p></li>
+<li><p>Understand that <em>Asymptotic analysis</em> is not the end all for describing algorithmic efficiency. It doesn&rsquo;t take into account the frequency in which that algorithm or data structure will be used or how much better more powerful hardware will run things.</p></li>
+<li><p>Most importantly someone smarter than you has likely already done the hard part. This stuff tends to be core to the structure of many systems and programming languages. The architects have likely taken this into heavy consideration so you don&rsquo;t have to.</p></li>
+</ul>
+</li>
 </ul>
 
 ]]></content>
